@@ -1,6 +1,6 @@
 ## Mark Nine  - Good books recommendation app, Made with ReactJS.  
    
-It is developed using Reactjs, [live demo ](https://book-recommendation.vercel.app/) hosted on vercel.
+It is developed using Reactjs, [live demo ](https://mark-nine-book-recomendtion.netlify.app/) hosted on vercel.
 
 #### Features 
 - Implemented Handlers.
