@@ -5,6 +5,7 @@ const bookDB = {
   javascript: [
     { name: 'Eloquent JavaScript', rating: '4/5' },
     { name: "You Don't Know JS", rating: '3.5/5' },
+    {nam: "JavaScript: the good parts ",rating:'4.5/5'}
   ],
 
   fiction: [
@@ -12,6 +13,7 @@ const bookDB = {
       name: 'Shiva Trilogy',
       rating: '5/5',
     },
+  {name:"The martian",rating:'4.5/5'}
     {
       name: "Harry Potter and the Sorcerer's Stone",
       rating: '4.5/5',
@@ -26,6 +28,7 @@ const bookDB = {
       name: 'Loonshots',
       rating: '5/5',
     },
+    {name: "The Almanack of Naval Ravikant",rating: '5/5'}
   ],
 }
 
