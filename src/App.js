@@ -5,16 +5,20 @@ const bookDB = {
   javascript: [
     { name: "Eloquent JavaScript", rating: "4/5" },
     { name: "You Don't Know JS", rating: "3.5/5" },
-    { name: "JavaScript: the good parts ", rating: "4.5/5" },
+    { name: "Javascript by SUFIYAN", rating: "3.5/5" },
   ],
+
   fiction: [
     {
       name: "Shiva Trilogy",
       rating: "5/5",
     },
-    { name: "The martian", rating: "4.5/5" },
     {
       name: "Harry Potter and the Sorcerer's Stone",
+      rating: "4.5/5",
+    },
+    {
+      name: "Harry Potter 5",
       rating: "4.5/5",
     },
   ],
@@ -27,7 +31,10 @@ const bookDB = {
       name: "Loonshots",
       rating: "5/5",
     },
-    { name: "The Almanack of Naval Ravikant", rating: "5/5" },
+    {
+      name: "Power of habits",
+      rating: "5/5",
+    },
   ],
 }
 
